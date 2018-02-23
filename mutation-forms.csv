@@ -1,0 +1,10 @@
+Cluster template	Form	Description
+.a	A	A-left
+a.	A	A-right
+.m	B	B-top
+m.	B	B-bottom
+.a.	C	C-right, C-left
+.m.	D	D-top, D-bottom
+..s	E	E-horiz
+..s.	F	F-top, F-bottom
+..m.	G	G-horiz, G-middle
